@@ -1,0 +1,171 @@
+[
+  {
+    "state": "Minas Gerais",
+    "city": "Belo Horizonte",
+    "name": "ACervA Mineira",
+    "website": "https://www.acervamineira.com.br",
+    "instagram": "",
+    "email": ""
+  },
+  {
+    "state": "Rio Grande do Sul",
+    "city": "Porto Alegre",
+    "name": "ACervA Gaucha",
+    "website": "www.acervagaucha.com.br",
+    "instagram": "",
+    "email": ""
+  },
+  {
+    "state": "Rio Grande do Sul",
+    "city": "Caxias",
+    "name": "Cerva Serra",
+    "website": "http://www.cervaserra.com.br/",
+    "instagram": "cervaserra",
+    "email": ""
+  },
+  {
+    "state": "Rio Grande do Sul",
+    "city": "Estrela",
+    "name": "AcervA Estrela",
+    "website": "",
+    "instagram": "acervaestrela",
+    "email": "acervaestrela@gmail.com"
+  },
+  {
+    "state": "Rio Grande do Sul",
+    "city": "Feliz",
+    "name": "Cerva Feliz",
+    "website": "",
+    "instagram": "cervafeliz",
+    "email": ""
+  },
+  {
+    "state": "Rio Grande do Sul",
+    "city": "São Leopoldo",
+    "name": "Sinos Homebrew Club",
+    "website": "",
+    "instagram": "sinoshomebrewclub",
+    "email": ""
+  },
+  {
+    "state": "Rio Grande do Sul",
+    "city": "Bagé",
+    "name": "Confraria da Panela",
+    "website": "",
+    "instagram": "confrariadapanelabage",
+    "email": ""
+  },
+  {
+    "state": "Rio Grande do Sul",
+    "city": "",
+    "name": "ConPan RS",
+    "website": "",
+    "instagram": "",
+    "email": "leandrobeermarques@gmail.com"
+  },
+  {
+    "state": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "name": "Acerva Carioca",
+    "website": "http://www.acervacarioca.com.br/",
+    "instagram": "",
+    "email": ""
+  },
+  {
+    "state": "Rio de Janeiro",
+    "city": "Volta Redonda",
+    "name": "Acerva Sul Fluminense",
+    "website": "",
+    "instagram": "acervasulfluminense",
+    "email": ""
+  },
+  {
+    "state": "Rio de Janeiro",
+    "city": "Niterói",
+    "name": "Niterói e São Gonçalo",
+    "website": "https://www.acervaniteroisg.com.br",
+    "instagram": "acerva.niteroi",
+    "email": ""
+  },
+
+  {
+    "state": "Santa Catarina",
+    "city": "Florianópolis",
+    "name": "ACervA Catarinense",
+    "website": "",
+    "instagram": "acervasc",
+    "email": ""
+  },
+  {
+    "state": "São Paulo",
+    "city": "São José dos Campos",
+    "name": "Concervap Confraria dos Cervejeiros do Vale do Paraíba",
+    "website": "https://www.concervap.com.br",
+    "instagram": "",
+    "email": ""
+  },
+  {
+    "state": "São Paulo",
+    "city": "Indaiatube",
+    "name": "BarSsagem do Bonét",
+    "website": "",
+    "instagram": "",
+    "email": "renatojacober@gmail.com"
+  },
+  {
+    "state": "Espírito Santo",
+    "city": "",
+    "name": "ACervA Capixaba",
+    "website": "https://acervaes.com.br/",
+    "instagram": "",
+    "email": ""
+  },
+  {
+    "state": "Alagoas",
+    "city": "Maceió",
+    "name": "ACervA Alagoana",
+    "website": "http://www.acervaalagoana.org",
+    "instagram": "",
+    "email": "acervaal@gmail.com"
+  },
+  {
+    "state": "Pernambuco",
+    "city": "Maceió",
+    "name": "ACervA PE",
+    "website": "https://acervapernambuco.com.br",
+    "instagram": "acervapernambuco",
+    "email": ""
+  },
+  {
+    "state": "Distrito Federal",
+    "city": "Brasília",
+    "name": "ACervA Candanga",
+    "website": "https://acervacandanga.com/",
+    "instagram": "",
+    "email": ""
+  },
+  {
+    "state": "Paraná",
+    "city": "Pinhais",
+    "name": "ACervA Paranaense",
+    "website": "https://www.acervaparanaense.com.br",
+    "instagram": "acerva_paranaense",
+    "email": ""
+  },
+  {
+    "state": "Ceará",
+    "city": "Fortaleza",
+    "name": "ACervA Cearense",
+    "website": "https://www.acervacearense.org.br/",
+    "instagram": "acervacearense",
+    "email": "acervacearense@acervacearense.org.br"
+  },
+  {
+    "state": "Bahia",
+    "city": "",
+    "name": "ACervA Baiana",
+    "website": "https://acervabaiana.com.br/",
+    "instagram": "",
+    "email": "contato@acervabaiana.com.br"
+  }
+]

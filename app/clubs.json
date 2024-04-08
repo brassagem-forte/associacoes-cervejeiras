@@ -1,6 +1,14 @@
 [
   {
     "state": "Minas Gerais",
+    "city": "Juiz de Fora",
+    "name": "ACZ - Associação de Cervejeiros da Zona da Mata de Minas Gerais",
+    "website": "",
+    "instagram": "aczj",
+    "email": "aczassociados@gmail.com"
+  },
+  {
+    "state": "Minas Gerais",
     "city": "Belo Horizonte",
     "name": "ACervA Mineira",
     "website": "https://www.acervamineira.com.br",
